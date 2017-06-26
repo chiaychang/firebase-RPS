@@ -243,17 +243,23 @@ li:hover {
 .player1 {
   /* Visual */
   color: #419d78;
+  font-size: 17px;
+  border-radius: 3px;
 }
 
 .player2 {
   /* Visual */
   color: #2d3047;
+  font-size: 17px;
+  border-radius: 3px;
 }
 
 .player0 {
   color: #000;
+  font-size: 17px;
+  border-radius: 3px;
 
   /* Visual */
   background-color: #d3d3d3;
-  width: 100%;
+
 }
